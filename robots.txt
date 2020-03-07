@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xuelemiezi.tonyc.ai/sitemap.xml
